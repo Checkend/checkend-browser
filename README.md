@@ -1,5 +1,6 @@
 # @checkend/browser
 
+[![CI](https://github.com/furvur/checkend-browser/actions/workflows/ci.yml/badge.svg)](https://github.com/furvur/checkend-browser/actions/workflows/ci.yml)
 [![npm version](https://badge.fury.io/js/@checkend%2Fbrowser.svg)](https://badge.fury.io/js/@checkend%2Fbrowser)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
