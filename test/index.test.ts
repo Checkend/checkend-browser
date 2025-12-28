@@ -116,7 +116,7 @@ describe('Checkend Browser SDK', () => {
 
   describe('notifySync', () => {
     it('returns promise with response', async () => {
-      configure({ apiKey: 'test-key', enabled: true })
+      configure({ apiKey: 'test-key', enabled: true, useSendBeacon: false })
 
       const result = await notifySync(new Error('Test error'))
 
